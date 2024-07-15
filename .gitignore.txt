@@ -1,4 +1,3 @@
-# Ignore all files except AviationDataset.csv and USAstates.csv
 *
 
 !images/
