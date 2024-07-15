@@ -19,7 +19,7 @@ This dataframe was filtered again to show us the safest possible planes.
 
 # Results
 Amateur Built planes have on average less total fatal injuries than non-amateur built planes.
-![amateur_built](./images/Overall Mean of Total Fatalities.png)
+![amateur_built](./images/Overall%20Mean%20of%20Total%20Fatalities.png)
 
 
 Weather factors play a role in increasing the total fatal injuries. The months of June and October having the highest average fatal injuries.
@@ -29,7 +29,7 @@ The type of engine correlates to the number of total fatal injuries. In the case
 ![engine](./images/Fatalities%20by%20Number%20of%20Engines%20and%20Engine%20Type.png)
 
 The Airbus A380 is the safest plane on average as determined by having the highest number of uninjured passengers with a low average number of total fatalities per accident.
-![engine](./images/Top 5 Safest Planes Uninjured Passenger Count.png)
+![engine](./images/Top%205%20Safest%20Planes%20Uninjured%20Passenger%20Count.png)
 
 # Conclusions
 We would recommend that our client purchase the Airbus A380 as that is our safest plane. We would also recommend avoiding planes with a 'Turbo Fan' engine. We would also recommend to pay particular attentionn to the higher number of fatalities during bad weather, what is called IMC, or instrumental meteorlogical conditions, especially during the months of June and October. And finally that amateur built planes are on average safer than non-Amateur built planes.
