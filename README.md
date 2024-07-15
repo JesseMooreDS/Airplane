@@ -26,7 +26,7 @@ Weather factors play a role in increasing the total fatal injuries. The months o
 ![weather](./images/Total Fatality Means by Month and Weather.png)
 
 The type of engine correlates to the number of total fatal injuries. In the case of the ‘Turbo Fan’ engine, as the number of engines increases, the number of average total fatal injuries also increases.
-![engine](./images/Fatalities by Number of Engines and Engine Type.png)
+![engine](./images/Fatalities%20by%20Number%20of%20Engines%20and%20Engine%20Type.png)
 
 The Airbus A380 is the safest plane on average as determined by having the highest number of uninjured passengers with a low average number of total fatalities per accident.
 ![engine](./images/Top 5 Safest Planes Uninjured Passenger Count.png)
