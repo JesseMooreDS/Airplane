@@ -40,3 +40,14 @@ In the future we could improve this project by researching the frequency that ea
 See the full analysis in the Jupyter Notebook or review this presentation.
 
 For additional info, contact me via github. 
+
+
+## Repository Structure
+
+```
+├── images
+├── zippedData
+├── Airline Safety Data.pdf
+├── Airline_Safety_Data_Analysis.ipynb
+└── README.md
+```
