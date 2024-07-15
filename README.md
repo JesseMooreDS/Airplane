@@ -23,7 +23,7 @@ Amateur Built planes have on average less total fatal injuries than non-amateur 
 
 
 Weather factors play a role in increasing the total fatal injuries. The months of June and October having the highest average fatal injuries.
-![weather](./images/Total Fatality Means by Month and Weather.png)
+![weather](./images/Total%20Fatality%20Means%20by%20Month%20and%20Weather.png)
 
 The type of engine correlates to the number of total fatal injuries. In the case of the ‘Turbo Fan’ engine, as the number of engines increases, the number of average total fatal injuries also increases.
 ![engine](./images/Fatalities%20by%20Number%20of%20Engines%20and%20Engine%20Type.png)
