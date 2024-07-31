@@ -35,7 +35,6 @@ Mapping accident locations and analyzing 'Report.Status' values to determine if 
 For More Information
 See the full analysis in the Jupyter Notebook or review the presentation.
 
-<<<<<<< HEAD
 For additional information, contact me via GitHub.
 =======
 In the future we could improve this project by researching the frequency that each plane is used and contrast that to the number of accidents it is involved with. Additionally, we could map where the most number of accidents occur and also dig into the values represented in 'Report.Status', to determine if human error is a factor in any accidents.
@@ -56,4 +55,3 @@ For additional info, contact me via github.
 ├── Airline_Safety_Data_Analysis.ipynb
 └── README.md
 ```
->>>>>>> origin/main
